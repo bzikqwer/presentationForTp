@@ -7,7 +7,7 @@ print(username, username2)
 # создание списка
 
 support_tickets = ["tick1","tick2", "tick3"]
-    print(support_tickets)
+
 
 # операторы if -else
 
